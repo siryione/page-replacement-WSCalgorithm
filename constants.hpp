@@ -1,0 +1,7 @@
+#define PHYSICAL_PAGE_COUNT 255
+#define VIRTUAL_PAGE_COUNT 50
+#define WORKING_SET_SIZE 2
+#define TIME 10000
+#define QUANTUM 3
+#define PROCESS_NUM 10
+#define T 10
